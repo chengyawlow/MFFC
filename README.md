@@ -11,7 +11,7 @@
 	Print ISSN: 1051-8215
 	Online ISSN: 1558-2205
 	Digital Object Identifier: 10.1109/TCSVT.2017.2761829
-	Early Access URL : http://ieeexplore.ieee.org/document/8063938/
+	Early Access URL : http://ieeexplore.ieee.org/document/8063938/, or https://arxiv.org/abs/1604.07057
 
 	Our implementation is modified from that of PCANet:
 	T. H. Chan, K. Jia, S. Gao, J. Lu, Z. Zeng, and Y. Ma, "PCANet: a simple deep learning baseline for image classification?" IEEE Trans. Image Process., vol. 24, no. 12, pp. 5017-5032, Dec. 2015.
