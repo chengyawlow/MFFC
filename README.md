@@ -21,7 +21,7 @@
 
 	To derive and evaluate the 2-FFC descriptors:
 
-	1. 	Use only FERET dataset, if you have one; or email us for "FERET_I_128_128.mat".
+	1. 	Due to the copyright issue, we do not re-distribute the FERET dataset. However, you can request for it from https://www.nist.gov/itl/iad/image-group/color-feret-database.
 
 	2. 	Run FERET_MFFC_Gabor_PCA_ICA_MAIN with the following parameter configurations:
 	
